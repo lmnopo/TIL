@@ -18,6 +18,12 @@ Branching을 통한 협업 연습 및 실제 프로젝트에 적용하기
 
 #### 5. Open Source Contribution번역/문서화 등을 통한 오픈소스 기여하기
 
+#### 6. 추가 실습해보기
+
+생활코딩 GIT 인트로 https://opentutorials.org/course/3837
+
+Git 협업 http://bit.do/hphk-git-collab
+
 
 
 ### 참고자료
